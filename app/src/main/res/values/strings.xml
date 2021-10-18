@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Game Battle Royale</string>
+
+    <string name="profile">Profile</string>
+
+    <string name="my_name">Rafi Abadi</string>
+    <string name="my_about">Mahasiswa | Programmer | Gamer </string>
+
+    <string name="game_battleroyale">Nama Game BatlleRoyale</string>
+    <string name="game_detail">Detail Game BatlleRoyale</string>
+    <string name="game_rate">Rating</string>
+    <string name="game_overview">Deskripsi</string>
+
+    <string name="title_detail">Nama Game \nSize \nDeveloper \nRating di Play Store \nPlatform</string>
+    <string name="title_about_detail">Contact Person \n  \nInstagram \nFacebook \nGithub \nGmail \n </string>
+    <string name="about_detail">\n \n@___vthxnmsn \n@Ravi Thxsnsmn \n7Sensei  \npunkcrooked@gmail.com </string>
+    <string name="content_overview">Content Overview</string>
+    <string name="content_detail">Content Detail</string>
+</resources>
